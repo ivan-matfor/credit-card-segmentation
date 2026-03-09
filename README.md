@@ -129,8 +129,6 @@ jupyter lab
 * Save final cluster assignments as an exportable CSV for downstream business use
 * Add a formal preprocessing script or pipeline under `src/` to make the workflow reusable outside the notebook
 * Test DBSCAN or hierarchical clustering for alternative cluster shapes
-* Add a lightweight Streamlit dashboard to present segment profiles interactively
-* Package the workflow so the project can be reused on similar customer datasets
 
 ## Contributing Members
 
