@@ -134,7 +134,7 @@ jupyter lab
 
 ## Contributing Members
 
-[Ivan Mateo Forcen](https://github.com/ivan-matfor)**
+[Ivan Mateo Forcen](https://github.com/ivan-matfor)
 
 #### Other Members:
 
