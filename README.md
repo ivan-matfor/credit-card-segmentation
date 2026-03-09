@@ -134,8 +134,7 @@ jupyter lab
 
 ## Contributing Members
 
-**Team Leads (Contacts): [Ivan](https://github.com/ivan-matfor)**
+[Ivan Mateo Forcen](https://github.com/ivan-matfor)**
 
 #### Other Members:
 
-- [Ivan](https://github.com/ivan-matfor)
